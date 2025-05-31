@@ -65,3 +65,6 @@ This demonstrates full credential compromise on a Veeam Backup & Replication ser
 This attack chain demonstrates the critical risk of plaintext credential extraction in Veeam environments and the need for strict access controls and monitoring.
 <img width="956" alt="Attack Chain" src="https://github.com/user-attachments/assets/0e6b24e9-2c9e-4cae-a2f7-c26f6c32e339" />
 
+# Remark: 
+If you need the file Veeam-Credential-Extraction-POC.exe to perform a proof of concept for Plaintext-Credential-Extraction on Veeam Backup & Replication, please contact me at mressodefen001@gmail.com.
+
