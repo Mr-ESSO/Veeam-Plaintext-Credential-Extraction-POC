@@ -6,8 +6,8 @@ A Proof of Concept (PoC) demonstrating the risk of plaintext credential extracti
 ├── LICENSE                  (Optional: MIT or CC0)
 
 
-#📌 Overview
 
+#📌Overview
 This repository provides an example of how plaintext credentials can be extracted from the Veeam Backup & Replication PostgreSQL database.  
  
 This information is shared to help administrators and security professionals understand the risks and implement better security measures.
