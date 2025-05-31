@@ -60,3 +60,8 @@ This demonstrates full credential compromise on a Veeam Backup & Replication ser
 - Once an attacker gains local administrator access, they can extract and decrypt all credentials stored in the Veeam application.
 - These credentials can be used to compromise the backup infrastructure, ESXi hypervisors, and domain controllers.
 - This activity bypasses AV/EDR because it uses native system tools (PowerShell, psql) and known cryptographic APIs (DPAPI).
+
+# Example: Attack Chain for Veeam Plaintext Credential Extraction Proof-of-Concept
+This attack chain demonstrates the critical risk of plaintext credential extraction in Veeam environments and the need for strict access controls and monitoring.
+<img width="956" alt="Attack Chain" src="https://github.com/user-attachments/assets/0e6b24e9-2c9e-4cae-a2f7-c26f6c32e339" />
+
